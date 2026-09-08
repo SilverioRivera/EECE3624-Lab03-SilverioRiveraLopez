@@ -1,8 +1,8 @@
 /**************************************************************************
  *     File: Lab03.asm
  * Lab Name: Lab 03
- *   Author: John Hutton
- *  Created: 09/16/2022
+ *   Author: Silverio Rivera-Lopez
+ *  Created: 09/08/26
  *
  * This program simulates reading sensor data and doing operations on them.
  * It uses memory locations for sensors and result writes.
